@@ -20,6 +20,7 @@
    2. create route for home screen (page)
    3. create router for product screen (page)
 6. Create Node.js Server
+
    1. Run npm init in root folder
    2. update package.json set type: module
    3. add .js to imports
@@ -32,3 +33,17 @@
    10. create route for /api/products
    11. return products
    12. npm start
+
+7. Fetch Products From Backend
+
+   1. Set proxy in package.json
+   2. npm install axios
+   3. Use state hook
+   4. use effect hook
+   5. use reducer hook
+
+8. Manage state by Reducer hooks
+   1. Define reducer
+   2. update fetch data
+   3. get state from useReducer
+   4. npm install use-reducer-logger --force help debug state and fix issues
