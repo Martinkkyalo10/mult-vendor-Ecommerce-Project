@@ -43,7 +43,13 @@
    5. use reducer hook
 
 8. Manage state by Reducer hooks
+
    1. Define reducer
    2. update fetch data
    3. get state from useReducer
    4. npm install use-reducer-logger --force help debug state and fix issues
+
+9. Add bootstrap UI Framework
+   1. npm install react-bootstrap bootstrap
+   2. npm i react-router-bootstrap
+   3. update App.js
