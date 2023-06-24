@@ -50,6 +50,13 @@
    4. npm install use-reducer-logger --force help debug state and fix issues
 
 9. Add bootstrap UI Framework
+
    1. npm install react-bootstrap bootstrap
    2. npm i react-router-bootstrap
    3. update App.js
+
+10. Create Product and Rating Components
+    1. Create Rating Component
+    2. Create Product component
+    3. Use Rating component in Product component
+    4. import font awasome to index.html above the title
