@@ -63,5 +63,12 @@
     4. import font awasome to index.html above the title
 
 11. Create Product Details Screen
+
     1. fetch product from backend
     2. create 3 columns for image, info and action
+
+12. Create Loading and Message Components
+    1. create loading component
+    2. use the spinner component
+    3. create message component
+    4. create utils file to define getError function
