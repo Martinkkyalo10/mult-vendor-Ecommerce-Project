@@ -68,7 +68,14 @@
     2. create 3 columns for image, info and action
 
 12. Create Loading and Message Components
+
     1. create loading component
     2. use the spinner component
     3. create message component
     4. create utils file to define getError function
+
+13. Add to Cart
+    1. Create React Context
+    2. define reducer
+    3. create store provider
+    4. implement add to cart button click handler
